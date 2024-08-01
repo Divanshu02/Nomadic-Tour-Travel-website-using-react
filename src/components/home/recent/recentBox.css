@@ -1,0 +1,18 @@
+.recent:hover {
+    box-shadow: 0 40px 50px 0 rgba(6, 7, 9, 0.18);
+    cursor: pointer;
+  }
+
+  .reset-button {
+    background-color: transparent;
+    text-decoration: underline;
+    color: black;
+    border-width: 0;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    padding: 0;
+    
+  }

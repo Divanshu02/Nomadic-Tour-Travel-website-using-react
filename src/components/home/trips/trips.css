@@ -1,0 +1,18 @@
+.awards {
+    background-color: #133460;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .awards .heading h1 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+  }
+  .awards h1 {
+    font-size: 50px;
+  }
+  .awards p {
+    color: grey;
+  }
+  
