@@ -9,7 +9,7 @@ export const nav = [
 },
 {
   text: "Specials",
-  path: "/RandomPick",
+  path: "/RandomPick", 
 },
 {
   text: "contact",

@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <>
-      <header>
+      <header> 
         <div className='container flex'>
           <div className='logo'>
             <img src='./images/logo.png' alt='' />
