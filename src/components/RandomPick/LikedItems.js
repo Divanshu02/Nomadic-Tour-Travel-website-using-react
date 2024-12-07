@@ -13,7 +13,7 @@ const LikedItems = () => {
   let tours = [];
   likedItems.forEach((likedItem) => {
     likedItem.forEach((tour) => {
-      tours.push(tour);
+      tours.push(tour);    
     });
   });
   // console.log(tours, "tour");

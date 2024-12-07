@@ -27,7 +27,7 @@ const Pages = () => {
           <Route path="/likedItems" component={LikedItems} />
           <Route exact path='/Explore' component={Explore} />
           <Route exact path='/contact' component={Contact} /> 
-          <Route exact path='/RandomPick' component={Tours} /> 
+          <Route exact path='/favourites' component={Tours} /> 
           <Route exact path='/login' component={Login} />
           <Route exact path='/register' component={Register} />
         </Switch>

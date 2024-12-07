@@ -6,10 +6,10 @@ export const nav = [
 {
   text: "Explore",
   path: "/Explore",
-},
+},        
 {
-  text: "Specials",
-  path: "/RandomPick", 
+  text: "favourites",
+  path: "/favourites", 
 },
 {
   text: "contact",
